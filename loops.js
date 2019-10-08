@@ -36,7 +36,7 @@ function doWhileLoop(num) {
     console.log("I run once regardless.");
     num = num + 1;
     return num;
-  } while (num > 11);
+  } while (num > 7);
 }
 
 
